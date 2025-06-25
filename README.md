@@ -123,7 +123,7 @@
 - 현재 레포지토리를 클론한다
     
     ```bash
-    git clone <https://github.com/boostcampaitech7/level2-cv-datacentric-cv-22.git>
+    git clone https://github.com/boostcampaitech7/cv-datacentric-text-detection-project
     ```
     
 - 아래 경로에 데이터셋을 다운받는다
